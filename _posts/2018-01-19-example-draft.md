@@ -10,6 +10,8 @@ related_posts: []
 ---
 ## Como funciona esto?
 
+Y si lo cambio de Git Hub también funciona?
+
 This is an example of a draft post. Draft posts aren't included when publishing your site.
 
 This is great for authoring work in progress content, or hiding content that shouldn't be available at the current time.
