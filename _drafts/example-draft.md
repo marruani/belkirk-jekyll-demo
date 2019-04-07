@@ -1,13 +1,14 @@
 ---
-title: Example Draft
+title: Hola Mundo
 layout: post
 date: 2018-01-19 00:00:00 +0000
-sub_heading: ''
-tags: []
+sub_heading: Ahora si vamos a escribir algo
+tags:
+- hola
 related_posts: []
 
 ---
-## What are draft posts?
+## Como funciona esto?
 
 This is an example of a draft post. Draft posts aren't included when publishing your site.
 
